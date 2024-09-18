@@ -1,0 +1,20 @@
+print(
+  "Every story starts and ends the same, fear, pride, pain. Ours starts with a poem, read but not understood, ignored. It was your warning, not to jump, you shouldn’t have jumped. Skin met bitter skin and you hungered for a better look, a second taste. Never satisfied were you, and to the sirens you lept."
+)
+
+print("")
+print("")
+print("Awake young sinner and face your fate.")
+print("")
+print("")
+print(
+  "A quiet cell, a bittersweet melody hanging heavy in the air, a bed made haphazardly of bone, and walls. Walls covered in poetry, covered in the warning you should have heeded. “Night comes silent. You. you enter this world with screams. You. a quiet broken thing. You. listen to no songs and find no bitter fate. You. all that is power will and has left from you. You. you will learn to be afraid of you. Do not jump, for the world you will find is one you will mourn. You were not born to face such a thing. Stay where it is safe little one. These doors are not for you. "
+)
+print("")
+print("")
+print(
+  "Shackles force bones into careless shapes. You won’t have to suffer much longer my child, today is the day of your execution. You will soon from here, even the other prisoners know it, laughing as you are marched down empty halls, peering at you from solid walls. They want you to die, want you to get out of their palace, for you have tainted it in calling it a prison. They will have your head, and upon it they will carve out a warning for then next one of you, the next fool who could not see what lies in front of you. Your heavy footfalls thud hollowly in cavernous halls, the guard that holds you by the neck keeping you in place walks silently. His grim uncaring face hidden amongst your shadow. You could speak with him perhaps, someone to which to utter your final words."
+
+Guard = input("speak or remain silent: ")
+if Guard == "speak":
+  

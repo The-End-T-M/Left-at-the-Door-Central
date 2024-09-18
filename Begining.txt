@@ -1,0 +1,11 @@
+print("have you ever played interactive fiction before")
+
+Begining = input("yes or no: ")
+if Begining == "yes":
+  print("")
+  print("Heed the warnings you hear in the night")
+
+if Begining == "no":
+  print("")
+  print(
+      "The lines of fate have all but forsaken you, they will ask of you many things but your story will only end as they have intended, make your choices, live your life, count the hours until it reaches its end")

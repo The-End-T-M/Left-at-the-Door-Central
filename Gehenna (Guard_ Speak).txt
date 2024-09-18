@@ -1,0 +1,3 @@
+print(
+    "you open your mouth, a laborious task, letting the months that it has been closed weigh burdensome on your jaw. And without the full uttering of a single sound, the pressure holding you hostage fades away. You are free. And for the first time you can see what from. Your prison Gehenna is a place of pain that has not changed. Your bare feet still burn bitter cold against the stone floor, your skin still stings from countless wounds caused each time you tried to rest, and your throat burns from the singular act of trying to speak. What has changed however is the view, there above you in infinite glory are the heavens. Walk through this door my child and see them. So follows: The End"
+)

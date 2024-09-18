@@ -1,0 +1,5 @@
+If Guard == remain silent: 
+Print (“you remain silent, docile, letting the guard break your hollow bones. You walk past, prisoners and implements of torture, and with ever step you wince both at the sights that flood your once innocent eyes, and the burn of the bittercold floor against the bare flesh of your feet. Death to you draws near. Voices call out from empty cells, they beckon you forward, arms reach from unrelenting walls, and grab at the fringes of the rags you have been allotted. They long to speak with you, to find once and for all what it is that drive you to such foolishness. 
+A pale hand wraps too long fingers around your shoulder, “you stand accused are you ready to face the consequences of your actions or will you stand in defense of yourself.”)
+Print(“”)
+Court = input(“face the consequences or stand in defense”):
